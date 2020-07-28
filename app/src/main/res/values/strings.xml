@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ffmpegLib</string>
+
+    <string name="video_slow">慢放</string>
+    <string name="video_fast">快进</string>
+
+    <string name="select_file">选择文件</string>
+</resources>
